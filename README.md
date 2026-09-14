@@ -1,7 +1,7 @@
 # Werken met Strings in Python
 
 ## Een string aanmaken
-1. Met enkele aanhalingstekens ''text''
+1. Met enkele aanhalingstekens `'text'`
 2. Met dubbele aanhalingstekens ""tekst""
 3. met drie aanhalngstekens voor meerdere regels
 
