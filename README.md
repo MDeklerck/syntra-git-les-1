@@ -5,7 +5,7 @@
 2. Met dubbele aanhalingstekens `"tekst"`
 3. met drie aanhalngstekens voor meerdere regels
 
-##Veelgebruikte bewerkingen
+## Veelgebruikte bewerkingen
 * **Samenvoegen** met `+`
 * lengte opvragen met `len()`
 * *slicing* om een deel op te vragen
@@ -16,7 +16,7 @@ print("Hallo, " + naam)
 print(lin(naam))
 ```
 
-##String-methodes
+## String-methodes
 |Methode|Beschrijving|
 |-------|------------|
 |`.upper()`|Hoofdletters|
